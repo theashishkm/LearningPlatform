@@ -1,0 +1,19 @@
+﻿id,testId,date,correct,total,attempted,notes
+HIST-ATT-ENG-DIAG,HIST-ENG-DIAG,2026-10-26,14,20,20,Historical conversation; report 2026-10-26
+HIST-ATT-ENG-SUNDAY01,HIST-ENG-SUNDAY01,2026-11-01,24.5,25,25,Historical conversation; partial credit
+HIST-ATT-ENG-L08,HIST-ENG-L08,,8,10,10,User-reported by 2026-11-14
+HIST-ATT-ENG-L09,HIST-ENG-L09,,6,6,6,User-reported by 2026-11-14
+HIST-ATT-ENG-L10,HIST-ENG-L10,,13,15,15,User-reported by 2026-11-14
+HIST-ATT-ENG-L11,HIST-ENG-L11,,8,8,8,User-reported by 2026-11-14
+HIST-ATT-ENG-L12,HIST-ENG-L12,,7,8,8,User-reported 2026-11-11
+HIST-ATT-ENG-L13,HIST-ENG-L13,,6,8,8,User-reported 2026-11-11
+HIST-ATT-ENG-L14,HIST-ENG-L14,,6,8,8,User-reported 2026-11-11
+HIST-ATT-ENG-L15,HIST-ENG-L15,,7,10,10,User-reported 2026-11-19
+HIST-ATT-ENG-L16,HIST-ENG-L16,,6,8,8,User-reported 2026-11-20
+HIST-ATT-APT-DIAG1,HIST-APT-DIAG1,,9,10,10,Assistant-evaluated; raw score 13/15
+HIST-ATT-APT-DIAG2,HIST-APT-DIAG2,,7,10,10,Assistant-evaluated; raw score 9/15
+HIST-ATT-PROB-QUIZ-1012,HIST-PROB-QUIZ-1012,2026-10-12,6,8,8,Assistant evaluation 2026-10-12
+HIST-ATT-LA-MIX2-1018,HIST-LA-MIX2-1018,2026-10-18,3,10,9,"Strict score 3/9 attempted; Q9 not attempted, Q10 partial"
+HIST-ATT-ENG-L17,HIST-ENG-L17,,12,15,15,User-reported by 2026-11-23; exact date unknown
+HIST-ATT-ENG-L18,HIST-ENG-L18,,7,8,8,User-reported by 2026-11-23; exact date unknown
+HIST-ATT-ENG-SAT-MINI,HIST-ENG-SAT-MINI,,4,5,5,User-reported by 2026-11-23; exact date unknown

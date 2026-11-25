@@ -1,0 +1,1590 @@
+{
+  "subjects": [
+    {
+      "id": "LA",
+      "name": "Linear Algebra",
+      "track": "GATE DA / CMI"
+    },
+    {
+      "id": "PROB",
+      "name": "Probability & Statistics",
+      "track": "GATE DA / CMI"
+    },
+    {
+      "id": "CALC",
+      "name": "Calculus & Optimization",
+      "track": "GATE DA"
+    },
+    {
+      "id": "APT",
+      "name": "General Aptitude",
+      "track": "GATE DA"
+    },
+    {
+      "id": "PYDSA",
+      "name": "Programming & DSA",
+      "track": "GATE DA"
+    },
+    {
+      "id": "DBMS",
+      "name": "DBMS & Data Warehousing",
+      "track": "GATE DA"
+    },
+    {
+      "id": "ML",
+      "name": "Machine Learning",
+      "track": "GATE DA"
+    },
+    {
+      "id": "AI",
+      "name": "Artificial Intelligence",
+      "track": "GATE DA"
+    },
+    {
+      "id": "ENG-G",
+      "name": "English Grammar",
+      "track": "English"
+    },
+    {
+      "id": "ENG-V",
+      "name": "English Vocabulary",
+      "track": "English"
+    },
+    {
+      "id": "ENG-R",
+      "name": "Reading Comprehension",
+      "track": "English"
+    },
+    {
+      "id": "ENG-W",
+      "name": "English Writing",
+      "track": "English"
+    }
+  ],
+  "topics": [
+    {
+      "id": "LA-MATRIX",
+      "subject": "LA",
+      "unit": "Matrices",
+      "name": "Rank, determinant and nullity",
+      "status": "Practicing",
+      "notes": "User reported 40 rank/determinant/nullity questions",
+      "confidence": ""
+    },
+    {
+      "id": "LA-EIG",
+      "subject": "LA",
+      "unit": "Matrices",
+      "name": "Eigenvalues and eigenvectors",
+      "status": "Practicing",
+      "notes": "User reported completing 60 eigenvalue questions",
+      "confidence": ""
+    },
+    {
+      "id": "LA-SYS",
+      "subject": "LA",
+      "unit": "Linear systems",
+      "name": "Systems of linear equations",
+      "status": "Practicing",
+      "notes": "Studied and practiced",
+      "confidence": ""
+    },
+    {
+      "id": "LA-SPECIAL",
+      "subject": "LA",
+      "unit": "Matrix types",
+      "name": "Special matrices",
+      "status": "Practicing",
+      "notes": "Matrix types studied",
+      "confidence": ""
+    },
+    {
+      "id": "PROB-EVENTS",
+      "subject": "PROB",
+      "unit": "Probability basics",
+      "name": "Events, union, intersection, conditional probability",
+      "status": "Practicing",
+      "notes": "Past probability practice",
+      "confidence": ""
+    },
+    {
+      "id": "PROB-BAYES",
+      "subject": "PROB",
+      "unit": "Conditional probability",
+      "name": "Bayes theorem and independence",
+      "status": "Practicing",
+      "notes": "Arithmetic errors in some Bayes questions",
+      "confidence": ""
+    },
+    {
+      "id": "PROB-COUNT",
+      "subject": "PROB",
+      "unit": "Combinatorics",
+      "name": "Counting, permutations, combinations and derangements",
+      "status": "Practicing",
+      "notes": "Counting practice completed",
+      "confidence": ""
+    },
+    {
+      "id": "PROB-RV",
+      "subject": "PROB",
+      "unit": "Random variables",
+      "name": "Discrete random variables and PMF",
+      "status": "Practicing",
+      "notes": "PMF and expectation studied",
+      "confidence": ""
+    },
+    {
+      "id": "APT-QUANT",
+      "subject": "APT",
+      "unit": "Quantitative aptitude",
+      "name": "Arithmetic, ratios, speed and percentages",
+      "status": "Learning",
+      "notes": "Diagnostic 1",
+      "confidence": ""
+    },
+    {
+      "id": "APT-LOGIC",
+      "subject": "APT",
+      "unit": "Analytical reasoning",
+      "name": "Must-vs-possible logic and case counting",
+      "status": "Learning",
+      "notes": "Diagnostic 2",
+      "confidence": ""
+    },
+    {
+      "id": "ENG-POS",
+      "subject": "ENG-G",
+      "unit": "Parts of speech",
+      "name": "Nouns, pronouns, adjectives and adverbs",
+      "status": "Practicing",
+      "notes": "Lessons and tests reported",
+      "confidence": ""
+    },
+    {
+      "id": "ENG-VERBS",
+      "subject": "ENG-G",
+      "unit": "Verbs",
+      "name": "Main, linking and helping verbs",
+      "status": "Practicing",
+      "notes": "Contextual distinctions",
+      "confidence": ""
+    },
+    {
+      "id": "ENG-SVA",
+      "subject": "ENG-G",
+      "unit": "Sentence grammar",
+      "name": "Subject–verb agreement",
+      "status": "Practicing",
+      "notes": "Diagnostic weaknesses",
+      "confidence": ""
+    },
+    {
+      "id": "ENG-CLAUSES",
+      "subject": "ENG-G",
+      "unit": "Sentences",
+      "name": "Simple, compound and complex sentences",
+      "status": "Practicing",
+      "notes": "Sentence classification errors",
+      "confidence": ""
+    },
+    {
+      "id": "ENG-PREP",
+      "subject": "ENG-G",
+      "unit": "Parts of speech",
+      "name": "Prepositions, conjunctions and interjections",
+      "status": "Practicing",
+      "notes": "Lessons practiced",
+      "confidence": ""
+    },
+    {
+      "id": "ENG-READ",
+      "subject": "ENG-R",
+      "unit": "Comprehension",
+      "name": "Understanding arguments and difficult sentences",
+      "status": "Learning",
+      "notes": "Reading Ambedkar and Bhagat Singh",
+      "confidence": ""
+    },
+    {
+      "id": "ENG-VOC",
+      "subject": "ENG-V",
+      "unit": "Vocabulary",
+      "name": "Contextual word learning and recall",
+      "status": "Learning",
+      "notes": "Offline dictionary and notebook",
+      "confidence": ""
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q-START-001",
+      "subject": "LA",
+      "topic": "LA-MATRIX",
+      "type": "MCQ",
+      "text": "For A = [[2, 0], [0, −3]], what is det(A)?",
+      "options": [
+        "−6",
+        "6",
+        "−1",
+        "5"
+      ],
+      "correct": "A",
+      "explanation": "det(A) = 2 × (−3) − 0 = −6.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-002",
+      "subject": "LA",
+      "topic": "LA-MATRIX",
+      "type": "MCQ",
+      "text": "What is the rank of [[1, 2], [2, 4]]?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "correct": "B",
+      "explanation": "The second row is twice the first; only one independent row.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-003",
+      "subject": "LA",
+      "topic": "LA-EIG",
+      "type": "MCQ",
+      "text": "An upper-triangular matrix has diagonal entries 4 and −1. Its eigenvalues are:",
+      "options": [
+        "4 and 1",
+        "4 and −1",
+        "−4 and 1",
+        "0 and 3"
+      ],
+      "correct": "B",
+      "explanation": "Eigenvalues of triangular matrices are diagonal entries.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-004",
+      "subject": "LA",
+      "topic": "LA-MATRIX",
+      "type": "MCQ",
+      "text": "If a 3 × 3 matrix A has det(A) ≠ 0, which statement must be true?",
+      "options": [
+        "A is singular",
+        "A is invertible",
+        "rank(A) = 2",
+        "0 is an eigenvalue of A"
+      ],
+      "correct": "B",
+      "explanation": "A nonzero determinant means A is invertible.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-005",
+      "subject": "LA",
+      "topic": "LA-EIG",
+      "type": "NAT",
+      "text": "A 3 × 3 matrix has eigenvalues 1, 2, and 3. What is tr(A)?",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": "6",
+      "explanation": "Trace is the sum of eigenvalues: 1 + 2 + 3 = 6.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-006",
+      "subject": "LA",
+      "topic": "LA-SYS",
+      "type": "MCQ",
+      "text": "The system x + y = 2, 2x + 2y = 4 has:",
+      "options": [
+        "No solution",
+        "A unique solution",
+        "Infinitely many solutions",
+        "Exactly two solutions"
+      ],
+      "correct": "C",
+      "explanation": "Both equations represent the same line.",
+      "source": "Original starter practice",
+      "difficulty": "Medium",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-007",
+      "subject": "PROB",
+      "topic": "PROB-EVENTS",
+      "type": "MCQ",
+      "text": "Two fair dice are rolled. Probability of getting at least one six?",
+      "options": [
+        "1/6",
+        "1/3",
+        "11/36",
+        "1/36"
+      ],
+      "correct": "C",
+      "explanation": "1 − P(no six) = 1 − (5/6)² = 11/36.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-008",
+      "subject": "PROB",
+      "topic": "PROB-BAYES",
+      "type": "NAT",
+      "text": "Events A and B are independent with P(A) = 0.4 and P(B) = 0.5. Find P(A ∩ B).",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": "0.2",
+      "explanation": "0.4 × 0.5 = 0.2.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-009",
+      "subject": "PROB",
+      "topic": "PROB-RV",
+      "type": "MCQ",
+      "text": "P(X = 0) = 1/4, P(X = 1) = 1/2, P(X = 2) = 1/4. E[X] equals:",
+      "options": [
+        "0.5",
+        "1",
+        "1.25",
+        "1.5"
+      ],
+      "correct": "B",
+      "explanation": "0(1/4) + 1(1/2) + 2(1/4) = 1.",
+      "source": "Original starter practice",
+      "difficulty": "Medium",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-010",
+      "subject": "PROB",
+      "topic": "PROB-COUNT",
+      "type": "MCQ",
+      "text": "An urn has 3 red and 2 blue balls. Two are drawn without replacement. P(both red) equals:",
+      "options": [
+        "3/10",
+        "3/5",
+        "2/5",
+        "1/2"
+      ],
+      "correct": "A",
+      "explanation": "(3/5)(2/4) = 3/10.",
+      "source": "Original starter practice",
+      "difficulty": "Medium",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-011",
+      "subject": "PROB",
+      "topic": "PROB-EVENTS",
+      "type": "MCQ",
+      "text": "Two events with positive probabilities are mutually exclusive. Can they also be independent?",
+      "options": [
+        "Always",
+        "Sometimes",
+        "No",
+        "Only if equally likely"
+      ],
+      "correct": "C",
+      "explanation": "Mutually exclusive ⇒ intersection probability 0, whereas independence would require positive product.",
+      "source": "Original starter practice",
+      "difficulty": "Medium",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-012",
+      "subject": "APT",
+      "topic": "APT-QUANT",
+      "type": "MCQ",
+      "text": "A vehicle moves at 60 km/h. How far does it travel in 30 minutes?",
+      "options": [
+        "15 km",
+        "30 km",
+        "60 km",
+        "120 km"
+      ],
+      "correct": "B",
+      "explanation": "60 × 0.5 = 30 km.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-013",
+      "subject": "APT",
+      "topic": "APT-QUANT",
+      "type": "NAT",
+      "text": "A price of ₹200 rises by 25%. What is the new price in rupees?",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": "250",
+      "explanation": "200 + 50 = 250.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-014",
+      "subject": "APT",
+      "topic": "APT-QUANT",
+      "type": "MCQ",
+      "text": "If 3 workers finish a task in 6 days at equal rates, how many days will 6 workers take?",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "12"
+      ],
+      "correct": "B",
+      "explanation": "18 worker-days / 6 workers = 3 days.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-015",
+      "subject": "APT",
+      "topic": "APT-QUANT",
+      "type": "MCQ",
+      "text": "What comes next in the sequence 2, 6, 12, 20, …?",
+      "options": [
+        "24",
+        "28",
+        "30",
+        "32"
+      ],
+      "correct": "C",
+      "explanation": "Next is 5 × 6 = 30.",
+      "source": "Original starter practice",
+      "difficulty": "Medium",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-016",
+      "subject": "APT",
+      "topic": "APT-QUANT",
+      "type": "MCQ",
+      "text": "Two numbers are in ratio 2:3 and sum to 50. Smaller number?",
+      "options": [
+        "10",
+        "20",
+        "25",
+        "30"
+      ],
+      "correct": "B",
+      "explanation": "Five parts total: 50/5=10; smaller = 2×10 =20.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-017",
+      "subject": "ENG-G",
+      "topic": "ENG-SVA",
+      "type": "MCQ",
+      "text": "Choose the correct word: She ___ to work every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "correct": "B",
+      "explanation": "Simple present with she: goes.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-018",
+      "subject": "ENG-G",
+      "topic": "ENG-POS",
+      "type": "MCQ",
+      "text": "In “She ran quickly,” the word “quickly” is a(n):",
+      "options": [
+        "Noun",
+        "Adjective",
+        "Adverb",
+        "Preposition"
+      ],
+      "correct": "C",
+      "explanation": "It modifies the verb ran.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-019",
+      "subject": "ENG-G",
+      "topic": "ENG-SVA",
+      "type": "MCQ",
+      "text": "Choose the correct verb: Neither of the answers ___ correct.",
+      "options": [
+        "are",
+        "were",
+        "have",
+        "is"
+      ],
+      "correct": "D",
+      "explanation": "Neither is singular in this construction.",
+      "source": "Original starter practice",
+      "difficulty": "Medium",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-020",
+      "subject": "ENG-G",
+      "topic": "ENG-CLAUSES",
+      "type": "MCQ",
+      "text": "“Although it rained, we went outside” is a ___ sentence.",
+      "options": [
+        "Simple",
+        "Compound",
+        "Complex",
+        "Fragment"
+      ],
+      "correct": "C",
+      "explanation": "A dependent clause plus independent clause.",
+      "source": "Original starter practice",
+      "difficulty": "Medium",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-021",
+      "subject": "ENG-G",
+      "topic": "ENG-VERBS",
+      "type": "MCQ",
+      "text": "Choose the correct form: The boys ___ playing outside.",
+      "options": [
+        "is",
+        "was",
+        "were",
+        "has"
+      ],
+      "correct": "C",
+      "explanation": "Plural subject takes were.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-022",
+      "subject": "ENG-G",
+      "topic": "ENG-CLAUSES",
+      "type": "MSQ",
+      "text": "Select ALL sentences that contain a subordinate clause.",
+      "options": [
+        "I left because it was late.",
+        "She sings and dances.",
+        "Although he was tired, he worked.",
+        "The sun rose."
+      ],
+      "correct": "AC",
+      "explanation": "Both A and C contain dependent clauses.",
+      "source": "Original starter practice",
+      "difficulty": "Medium",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-023",
+      "subject": "ENG-V",
+      "topic": "ENG-VOC",
+      "type": "MCQ",
+      "text": "Which meaning is closest to “reluctant”?",
+      "options": [
+        "Unwilling",
+        "Very excited",
+        "Careless",
+        "Certain"
+      ],
+      "correct": "A",
+      "explanation": "Reluctant means hesitant or unwilling.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-024",
+      "subject": "ENG-V",
+      "topic": "ENG-VOC",
+      "type": "MCQ",
+      "text": "“Inevitable” means:",
+      "options": [
+        "Avoidable",
+        "Unclear",
+        "Certain to happen",
+        "Incorrect"
+      ],
+      "correct": "C",
+      "explanation": "Inevitable means certain to happen.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-025",
+      "subject": "ENG-R",
+      "topic": "ENG-READ",
+      "type": "MCQ",
+      "text": "Maya took an umbrella because dark clouds gathered. Why did she take it?",
+      "options": [
+        "She expected rain",
+        "She was going swimming",
+        "She needed shade indoors",
+        "She lost her bag"
+      ],
+      "correct": "A",
+      "explanation": "Dark clouds suggest rain.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-026",
+      "subject": "PYDSA",
+      "topic": "",
+      "type": "MCQ",
+      "text": "What is the time complexity of binary search in a sorted array?",
+      "options": [
+        "O(n)",
+        "O(log n)",
+        "O(n²)",
+        "O(1)"
+      ],
+      "correct": "B",
+      "explanation": "The search interval halves after each comparison.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-027",
+      "subject": "DBMS",
+      "topic": "",
+      "type": "MCQ",
+      "text": "What does SELECT COUNT(*) FROM T return?",
+      "options": [
+        "Number of columns",
+        "Sum of numeric values",
+        "Number of rows",
+        "First row only"
+      ],
+      "correct": "C",
+      "explanation": "COUNT(*) counts all rows.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-028",
+      "subject": "ML",
+      "topic": "",
+      "type": "MCQ",
+      "text": "Which task is usually supervised classification?",
+      "options": [
+        "Predicting whether an email is spam",
+        "Grouping unlabeled customers",
+        "Compressing a dataset",
+        "Finding frequent itemsets"
+      ],
+      "correct": "A",
+      "explanation": "Spam classification uses labeled examples.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-029",
+      "subject": "AI",
+      "topic": "",
+      "type": "MCQ",
+      "text": "In uninformed search, which algorithm explores nodes level by level?",
+      "options": [
+        "Depth-first search",
+        "Breadth-first search",
+        "Hill climbing",
+        "Gradient descent"
+      ],
+      "correct": "B",
+      "explanation": "Breadth-first search explores breadth before depth.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    },
+    {
+      "id": "Q-START-030",
+      "subject": "CALC",
+      "topic": "",
+      "type": "NAT",
+      "text": "For f(x) = x² + 3x, find f′(2).",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": "7",
+      "explanation": "The derivative is 2x + 3; at x = 2, that is 7.",
+      "source": "Original starter practice",
+      "difficulty": "Easy",
+      "verified": "Yes"
+    }
+  ],
+  "tests": [
+    {
+      "id": "HIST-ENG-DIAG",
+      "date": "2026-10-26",
+      "subject": "ENG-G",
+      "title": "English initial diagnostic",
+      "count": 20,
+      "origin": "Historical conversation; report 2026-10-26",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-ENG-SUNDAY01",
+      "date": "2026-11-01",
+      "subject": "ENG-G",
+      "title": "Sunday English Test 01",
+      "count": 25,
+      "origin": "Historical conversation; partial credit",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-ENG-L08",
+      "date": "",
+      "subject": "ENG-G",
+      "title": "English Grammar Lesson 8",
+      "count": 10,
+      "origin": "User-reported by 2026-11-14",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-ENG-L09",
+      "date": "",
+      "subject": "ENG-G",
+      "title": "English Grammar Lesson 9",
+      "count": 6,
+      "origin": "User-reported by 2026-11-14",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-ENG-L10",
+      "date": "",
+      "subject": "ENG-G",
+      "title": "English Grammar Lesson 10",
+      "count": 15,
+      "origin": "User-reported by 2026-11-14",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-ENG-L11",
+      "date": "",
+      "subject": "ENG-G",
+      "title": "English Grammar Lesson 11",
+      "count": 8,
+      "origin": "User-reported by 2026-11-14",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-ENG-L12",
+      "date": "",
+      "subject": "ENG-G",
+      "title": "English Grammar Lesson 12",
+      "count": 8,
+      "origin": "User-reported 2026-11-11",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-ENG-L13",
+      "date": "",
+      "subject": "ENG-G",
+      "title": "English Grammar Lesson 13",
+      "count": 8,
+      "origin": "User-reported 2026-11-11",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-ENG-L14",
+      "date": "",
+      "subject": "ENG-G",
+      "title": "English Grammar Lesson 14",
+      "count": 8,
+      "origin": "User-reported 2026-11-11",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-ENG-L15",
+      "date": "",
+      "subject": "ENG-G",
+      "title": "English Grammar Lesson 15",
+      "count": 10,
+      "origin": "User-reported 2026-11-19",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-ENG-L16",
+      "date": "",
+      "subject": "ENG-G",
+      "title": "English Grammar Lesson 16",
+      "count": 8,
+      "origin": "User-reported 2026-11-20",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-APT-DIAG1",
+      "date": "",
+      "subject": "APT",
+      "title": "General Aptitude Diagnostic 1",
+      "count": 10,
+      "origin": "Assistant-evaluated; raw score 13/15",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-APT-DIAG2",
+      "date": "",
+      "subject": "APT",
+      "title": "General Aptitude Diagnostic 2",
+      "count": 10,
+      "origin": "Assistant-evaluated; raw score 9/15",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-PROB-QUIZ-1012",
+      "date": "2026-10-12",
+      "subject": "PROB",
+      "title": "Probability & Statistics Test",
+      "count": 8,
+      "origin": "Assistant evaluation 2026-10-12",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-LA-MIX2-1018",
+      "date": "2026-10-18",
+      "subject": "LA",
+      "title": "Mixed Linear Algebra Practice Set 2",
+      "count": 10,
+      "origin": "Strict score 3/9 attempted; Q9 not attempted, Q10 partial",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-ENG-L17",
+      "date": "",
+      "subject": "ENG-G",
+      "title": "English Grammar Lesson 17 cumulative test",
+      "count": 15,
+      "origin": "User-reported by 2026-11-23; exact date unknown",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-ENG-L18",
+      "date": "",
+      "subject": "ENG-G",
+      "title": "English Grammar Lesson 18",
+      "count": 8,
+      "origin": "User-reported by 2026-11-23; exact date unknown",
+      "status": "Completed"
+    },
+    {
+      "id": "HIST-ENG-SAT-MINI",
+      "date": "",
+      "subject": "ENG-G",
+      "title": "Saturday grammar mini revision",
+      "count": 5,
+      "origin": "User-reported by 2026-11-23; exact date unknown",
+      "status": "Completed"
+    }
+  ],
+  "attempts": [
+    {
+      "id": "HIST-ATT-ENG-DIAG",
+      "testId": "HIST-ENG-DIAG",
+      "date": "2026-10-26",
+      "correct": 14,
+      "total": 20,
+      "attempted": 20,
+      "notes": "Historical conversation; report 2026-10-26"
+    },
+    {
+      "id": "HIST-ATT-ENG-SUNDAY01",
+      "testId": "HIST-ENG-SUNDAY01",
+      "date": "2026-11-01",
+      "correct": 24.5,
+      "total": 25,
+      "attempted": 25,
+      "notes": "Historical conversation; partial credit"
+    },
+    {
+      "id": "HIST-ATT-ENG-L08",
+      "testId": "HIST-ENG-L08",
+      "date": "",
+      "correct": 8,
+      "total": 10,
+      "attempted": 10,
+      "notes": "User-reported by 2026-11-14"
+    },
+    {
+      "id": "HIST-ATT-ENG-L09",
+      "testId": "HIST-ENG-L09",
+      "date": "",
+      "correct": 6,
+      "total": 6,
+      "attempted": 6,
+      "notes": "User-reported by 2026-11-14"
+    },
+    {
+      "id": "HIST-ATT-ENG-L10",
+      "testId": "HIST-ENG-L10",
+      "date": "",
+      "correct": 13,
+      "total": 15,
+      "attempted": 15,
+      "notes": "User-reported by 2026-11-14"
+    },
+    {
+      "id": "HIST-ATT-ENG-L11",
+      "testId": "HIST-ENG-L11",
+      "date": "",
+      "correct": 8,
+      "total": 8,
+      "attempted": 8,
+      "notes": "User-reported by 2026-11-14"
+    },
+    {
+      "id": "HIST-ATT-ENG-L12",
+      "testId": "HIST-ENG-L12",
+      "date": "",
+      "correct": 7,
+      "total": 8,
+      "attempted": 8,
+      "notes": "User-reported 2026-11-11"
+    },
+    {
+      "id": "HIST-ATT-ENG-L13",
+      "testId": "HIST-ENG-L13",
+      "date": "",
+      "correct": 6,
+      "total": 8,
+      "attempted": 8,
+      "notes": "User-reported 2026-11-11"
+    },
+    {
+      "id": "HIST-ATT-ENG-L14",
+      "testId": "HIST-ENG-L14",
+      "date": "",
+      "correct": 6,
+      "total": 8,
+      "attempted": 8,
+      "notes": "User-reported 2026-11-11"
+    },
+    {
+      "id": "HIST-ATT-ENG-L15",
+      "testId": "HIST-ENG-L15",
+      "date": "",
+      "correct": 7,
+      "total": 10,
+      "attempted": 10,
+      "notes": "User-reported 2026-11-19"
+    },
+    {
+      "id": "HIST-ATT-ENG-L16",
+      "testId": "HIST-ENG-L16",
+      "date": "",
+      "correct": 6,
+      "total": 8,
+      "attempted": 8,
+      "notes": "User-reported 2026-11-20"
+    },
+    {
+      "id": "HIST-ATT-APT-DIAG1",
+      "testId": "HIST-APT-DIAG1",
+      "date": "",
+      "correct": 9,
+      "total": 10,
+      "attempted": 10,
+      "notes": "Assistant-evaluated; raw score 13/15"
+    },
+    {
+      "id": "HIST-ATT-APT-DIAG2",
+      "testId": "HIST-APT-DIAG2",
+      "date": "",
+      "correct": 7,
+      "total": 10,
+      "attempted": 10,
+      "notes": "Assistant-evaluated; raw score 9/15"
+    },
+    {
+      "id": "HIST-ATT-PROB-QUIZ-1012",
+      "testId": "HIST-PROB-QUIZ-1012",
+      "date": "2026-10-12",
+      "correct": 6,
+      "total": 8,
+      "attempted": 8,
+      "notes": "Assistant evaluation 2026-10-12"
+    },
+    {
+      "id": "HIST-ATT-LA-MIX2-1018",
+      "testId": "HIST-LA-MIX2-1018",
+      "date": "2026-10-18",
+      "correct": 3,
+      "total": 10,
+      "attempted": 9,
+      "notes": "Strict score 3/9 attempted; Q9 not attempted, Q10 partial"
+    },
+    {
+      "id": "HIST-ATT-ENG-L17",
+      "testId": "HIST-ENG-L17",
+      "date": "",
+      "correct": 12,
+      "total": 15,
+      "attempted": 15,
+      "notes": "User-reported by 2026-11-23; exact date unknown"
+    },
+    {
+      "id": "HIST-ATT-ENG-L18",
+      "testId": "HIST-ENG-L18",
+      "date": "",
+      "correct": 7,
+      "total": 8,
+      "attempted": 8,
+      "notes": "User-reported by 2026-11-23; exact date unknown"
+    },
+    {
+      "id": "HIST-ATT-ENG-SAT-MINI",
+      "testId": "HIST-ENG-SAT-MINI",
+      "date": "",
+      "correct": 4,
+      "total": 5,
+      "attempted": 5,
+      "notes": "User-reported by 2026-11-23; exact date unknown"
+    }
+  ],
+  "answers": [
+    {
+      "attemptId": "HIST-ATT-ENG-L08",
+      "questionId": "HIST-ENG-L08-Q9",
+      "selected": "",
+      "correct": "",
+      "isCorrect": false,
+      "reflection": "Original question unavailable"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L08",
+      "questionId": "HIST-ENG-L08-Q10",
+      "selected": "",
+      "correct": "",
+      "isCorrect": false,
+      "reflection": "Original question unavailable"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L10",
+      "questionId": "HIST-ENG-L10-Q12",
+      "selected": "C",
+      "correct": "A",
+      "isCorrect": false,
+      "reflection": "Original question unavailable"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L10",
+      "questionId": "HIST-ENG-L10-Q13",
+      "selected": "A",
+      "correct": "B",
+      "isCorrect": false,
+      "reflection": "Original question unavailable"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L12",
+      "questionId": "HIST-ENG-L12-Q7",
+      "selected": "B",
+      "correct": "C",
+      "isCorrect": false,
+      "reflection": "Original question unavailable"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L13",
+      "questionId": "HIST-ENG-L13-Q5",
+      "selected": "C",
+      "correct": "B",
+      "isCorrect": false,
+      "reflection": "Original question unavailable"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L13",
+      "questionId": "HIST-ENG-L13-Q7",
+      "selected": "B",
+      "correct": "C",
+      "isCorrect": false,
+      "reflection": "Original question unavailable"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L14",
+      "questionId": "HIST-ENG-L14-Q7",
+      "selected": "C",
+      "correct": "A",
+      "isCorrect": false,
+      "reflection": "Original question unavailable"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L14",
+      "questionId": "HIST-ENG-L14-Q8",
+      "selected": "B",
+      "correct": "C",
+      "isCorrect": false,
+      "reflection": "Original question unavailable"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L15",
+      "questionId": "HIST-ENG-L15-Q1",
+      "selected": "B",
+      "correct": "C",
+      "isCorrect": false,
+      "reflection": "Original question unavailable"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L15",
+      "questionId": "HIST-ENG-L15-Q4",
+      "selected": "A",
+      "correct": "B",
+      "isCorrect": false,
+      "reflection": "Original question unavailable"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L15",
+      "questionId": "HIST-ENG-L15-Q8",
+      "selected": "A",
+      "correct": "B",
+      "isCorrect": false,
+      "reflection": "Original question unavailable"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L16",
+      "questionId": "HIST-ENG-L16-Q4",
+      "selected": "A",
+      "correct": "D",
+      "isCorrect": false,
+      "reflection": "Original question unavailable"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L16",
+      "questionId": "HIST-ENG-L16-Q7",
+      "selected": "B",
+      "correct": "A",
+      "isCorrect": false,
+      "reflection": "Original question unavailable"
+    },
+    {
+      "attemptId": "HIST-ATT-APT-DIAG1",
+      "questionId": "HIST-APT-DIAG1-Q9",
+      "selected": "",
+      "correct": "",
+      "isCorrect": false,
+      "reflection": "Misread “5 metres greater” as 5×; interpretation error"
+    },
+    {
+      "attemptId": "HIST-ATT-APT-DIAG2",
+      "questionId": "HIST-APT-DIAG2-Q1",
+      "selected": "",
+      "correct": "",
+      "isCorrect": false,
+      "reflection": "Subject–verb agreement"
+    },
+    {
+      "attemptId": "HIST-ATT-APT-DIAG2",
+      "questionId": "HIST-APT-DIAG2-Q8",
+      "selected": "",
+      "correct": "",
+      "isCorrect": false,
+      "reflection": "MSQ: must versus possible logic"
+    },
+    {
+      "attemptId": "HIST-ATT-APT-DIAG2",
+      "questionId": "HIST-APT-DIAG2-Q10",
+      "selected": "",
+      "correct": "",
+      "isCorrect": false,
+      "reflection": "Counting: omitted three-women case"
+    },
+    {
+      "attemptId": "HIST-ATT-PROB-QUIZ-1012",
+      "questionId": "HIST-PROB-QUIZ-1012-Q2",
+      "selected": "",
+      "correct": "",
+      "isCorrect": false,
+      "reflection": "Set operations/union identities"
+    },
+    {
+      "attemptId": "HIST-ATT-PROB-QUIZ-1012",
+      "questionId": "HIST-PROB-QUIZ-1012-Q8",
+      "selected": "",
+      "correct": "",
+      "isCorrect": false,
+      "reflection": "Confused joint and conditional probability"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-SUNDAY01",
+      "questionId": "HIST-ENG-SUNDAY01-Q12",
+      "selected": "",
+      "correct": "",
+      "isCorrect": false,
+      "reflection": "Omitted adverb “correctly”; partial credit"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L17",
+      "questionId": "HIST-ENG-L17-Q6",
+      "selected": "B",
+      "correct": "C",
+      "isCorrect": false,
+      "reflection": "Original question text unavailable; answer choices from user report"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L17",
+      "questionId": "HIST-ENG-L17-Q11",
+      "selected": "A",
+      "correct": "B",
+      "isCorrect": false,
+      "reflection": "Original question text unavailable; answer choices from user report"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L17",
+      "questionId": "HIST-ENG-L17-Q13",
+      "selected": "B",
+      "correct": "A",
+      "isCorrect": false,
+      "reflection": "Original question text unavailable; answer choices from user report"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-L18",
+      "questionId": "HIST-ENG-L18-Q7",
+      "selected": "D",
+      "correct": "C",
+      "isCorrect": false,
+      "reflection": "Original question text unavailable; answer choices from user report"
+    },
+    {
+      "attemptId": "HIST-ATT-ENG-SAT-MINI",
+      "questionId": "HIST-ENG-SAT-MINI-Q2",
+      "selected": "B",
+      "correct": "A",
+      "isCorrect": false,
+      "reflection": "Original question text unavailable; answer choices from user report"
+    }
+  ],
+  "mistakes": [
+    {
+      "id": "HM-001",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L08-Q9",
+      "type": "",
+      "why": "Original question unavailable",
+      "approach": "",
+      "status": "Open"
+    },
+    {
+      "id": "HM-002",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L08-Q10",
+      "type": "",
+      "why": "Original question unavailable",
+      "approach": "",
+      "status": "Open"
+    },
+    {
+      "id": "HM-003",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L10-Q12",
+      "type": "",
+      "why": "Original question unavailable",
+      "approach": "Correct answer: A",
+      "status": "Open"
+    },
+    {
+      "id": "HM-004",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L10-Q13",
+      "type": "",
+      "why": "Original question unavailable",
+      "approach": "Correct answer: B",
+      "status": "Open"
+    },
+    {
+      "id": "HM-005",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L12-Q7",
+      "type": "",
+      "why": "Original question unavailable",
+      "approach": "Correct answer: C",
+      "status": "Open"
+    },
+    {
+      "id": "HM-006",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L13-Q5",
+      "type": "",
+      "why": "Original question unavailable",
+      "approach": "Correct answer: B",
+      "status": "Open"
+    },
+    {
+      "id": "HM-007",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L13-Q7",
+      "type": "",
+      "why": "Original question unavailable",
+      "approach": "Correct answer: C",
+      "status": "Open"
+    },
+    {
+      "id": "HM-008",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L14-Q7",
+      "type": "",
+      "why": "Original question unavailable",
+      "approach": "Correct answer: A",
+      "status": "Open"
+    },
+    {
+      "id": "HM-009",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L14-Q8",
+      "type": "",
+      "why": "Original question unavailable",
+      "approach": "Correct answer: C",
+      "status": "Open"
+    },
+    {
+      "id": "HM-010",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L15-Q1",
+      "type": "",
+      "why": "Original question unavailable",
+      "approach": "Correct answer: C",
+      "status": "Open"
+    },
+    {
+      "id": "HM-011",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L15-Q4",
+      "type": "",
+      "why": "Original question unavailable",
+      "approach": "Correct answer: B",
+      "status": "Open"
+    },
+    {
+      "id": "HM-012",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L15-Q8",
+      "type": "",
+      "why": "Original question unavailable",
+      "approach": "Correct answer: B",
+      "status": "Open"
+    },
+    {
+      "id": "HM-013",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L16-Q4",
+      "type": "",
+      "why": "Original question unavailable",
+      "approach": "Correct answer: D",
+      "status": "Open"
+    },
+    {
+      "id": "HM-014",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L16-Q7",
+      "type": "",
+      "why": "Original question unavailable",
+      "approach": "Correct answer: A",
+      "status": "Open"
+    },
+    {
+      "id": "HM-015",
+      "date": "",
+      "subject": "APT",
+      "topic": "",
+      "questionId": "HIST-APT-DIAG1-Q9",
+      "type": "",
+      "why": "Misread “5 metres greater” as 5×; interpretation error",
+      "approach": "",
+      "status": "Open"
+    },
+    {
+      "id": "HM-016",
+      "date": "",
+      "subject": "APT",
+      "topic": "",
+      "questionId": "HIST-APT-DIAG2-Q1",
+      "type": "",
+      "why": "Subject–verb agreement",
+      "approach": "",
+      "status": "Open"
+    },
+    {
+      "id": "HM-017",
+      "date": "",
+      "subject": "APT",
+      "topic": "",
+      "questionId": "HIST-APT-DIAG2-Q8",
+      "type": "",
+      "why": "MSQ: must versus possible logic",
+      "approach": "",
+      "status": "Open"
+    },
+    {
+      "id": "HM-018",
+      "date": "",
+      "subject": "APT",
+      "topic": "",
+      "questionId": "HIST-APT-DIAG2-Q10",
+      "type": "",
+      "why": "Counting: omitted three-women case",
+      "approach": "",
+      "status": "Open"
+    },
+    {
+      "id": "HM-019",
+      "date": "2026-10-12",
+      "subject": "PROB",
+      "topic": "",
+      "questionId": "HIST-PROB-QUIZ-1012-Q2",
+      "type": "",
+      "why": "Set operations/union identities",
+      "approach": "",
+      "status": "Open"
+    },
+    {
+      "id": "HM-020",
+      "date": "2026-10-12",
+      "subject": "PROB",
+      "topic": "",
+      "questionId": "HIST-PROB-QUIZ-1012-Q8",
+      "type": "",
+      "why": "Confused joint and conditional probability",
+      "approach": "",
+      "status": "Open"
+    },
+    {
+      "id": "HM-021",
+      "date": "2026-11-01",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-SUNDAY01-Q12",
+      "type": "",
+      "why": "Omitted adverb “correctly”; partial credit",
+      "approach": "",
+      "status": "Open"
+    },
+    {
+      "id": "HM-022",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L17-Q6",
+      "type": "",
+      "why": "Question text unavailable; reason not classified",
+      "approach": "Your answer: B; correct: C",
+      "status": "Open"
+    },
+    {
+      "id": "HM-023",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L17-Q11",
+      "type": "",
+      "why": "Question text unavailable; reason not classified",
+      "approach": "Your answer: A; correct: B",
+      "status": "Open"
+    },
+    {
+      "id": "HM-024",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L17-Q13",
+      "type": "",
+      "why": "Question text unavailable; reason not classified",
+      "approach": "Your answer: B; correct: A",
+      "status": "Open"
+    },
+    {
+      "id": "HM-025",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-L18-Q7",
+      "type": "",
+      "why": "Question text unavailable; reason not classified",
+      "approach": "Your answer: D; correct: C",
+      "status": "Open"
+    },
+    {
+      "id": "HM-026",
+      "date": "",
+      "subject": "ENG-G",
+      "topic": "",
+      "questionId": "HIST-ENG-SAT-MINI-Q2",
+      "type": "",
+      "why": "Question text unavailable; reason not classified",
+      "approach": "Your answer: B; correct: A",
+      "status": "Open"
+    }
+  ],
+  "study": [],
+  "vocabulary": [],
+  "mode": "preview"
+}

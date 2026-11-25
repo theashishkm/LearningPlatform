@@ -1,0 +1,27 @@
+﻿attemptId,questionId,selected,correct,isCorrect,reflection
+HIST-ATT-ENG-L08,HIST-ENG-L08-Q9,,,False,Original question unavailable
+HIST-ATT-ENG-L08,HIST-ENG-L08-Q10,,,False,Original question unavailable
+HIST-ATT-ENG-L10,HIST-ENG-L10-Q12,C,A,False,Original question unavailable
+HIST-ATT-ENG-L10,HIST-ENG-L10-Q13,A,B,False,Original question unavailable
+HIST-ATT-ENG-L12,HIST-ENG-L12-Q7,B,C,False,Original question unavailable
+HIST-ATT-ENG-L13,HIST-ENG-L13-Q5,C,B,False,Original question unavailable
+HIST-ATT-ENG-L13,HIST-ENG-L13-Q7,B,C,False,Original question unavailable
+HIST-ATT-ENG-L14,HIST-ENG-L14-Q7,C,A,False,Original question unavailable
+HIST-ATT-ENG-L14,HIST-ENG-L14-Q8,B,C,False,Original question unavailable
+HIST-ATT-ENG-L15,HIST-ENG-L15-Q1,B,C,False,Original question unavailable
+HIST-ATT-ENG-L15,HIST-ENG-L15-Q4,A,B,False,Original question unavailable
+HIST-ATT-ENG-L15,HIST-ENG-L15-Q8,A,B,False,Original question unavailable
+HIST-ATT-ENG-L16,HIST-ENG-L16-Q4,A,D,False,Original question unavailable
+HIST-ATT-ENG-L16,HIST-ENG-L16-Q7,B,A,False,Original question unavailable
+HIST-ATT-APT-DIAG1,HIST-APT-DIAG1-Q9,,,False,Misread “5 metres greater” as 5×; interpretation error
+HIST-ATT-APT-DIAG2,HIST-APT-DIAG2-Q1,,,False,Subject–verb agreement
+HIST-ATT-APT-DIAG2,HIST-APT-DIAG2-Q8,,,False,MSQ: must versus possible logic
+HIST-ATT-APT-DIAG2,HIST-APT-DIAG2-Q10,,,False,Counting: omitted three-women case
+HIST-ATT-PROB-QUIZ-1012,HIST-PROB-QUIZ-1012-Q2,,,False,Set operations/union identities
+HIST-ATT-PROB-QUIZ-1012,HIST-PROB-QUIZ-1012-Q8,,,False,Confused joint and conditional probability
+HIST-ATT-ENG-SUNDAY01,HIST-ENG-SUNDAY01-Q12,,,False,Omitted adverb “correctly”; partial credit
+HIST-ATT-ENG-L17,HIST-ENG-L17-Q6,B,C,False,Original question text unavailable; answer choices from user report
+HIST-ATT-ENG-L17,HIST-ENG-L17-Q11,A,B,False,Original question text unavailable; answer choices from user report
+HIST-ATT-ENG-L17,HIST-ENG-L17-Q13,B,A,False,Original question text unavailable; answer choices from user report
+HIST-ATT-ENG-L18,HIST-ENG-L18-Q7,D,C,False,Original question text unavailable; answer choices from user report
+HIST-ATT-ENG-SAT-MINI,HIST-ENG-SAT-MINI-Q2,B,A,False,Original question text unavailable; answer choices from user report

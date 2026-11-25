@@ -1,0 +1,13 @@
+﻿id,name,track
+LA,Linear Algebra,GATE DA / CMI
+PROB,Probability & Statistics,GATE DA / CMI
+CALC,Calculus & Optimization,GATE DA
+APT,General Aptitude,GATE DA
+PYDSA,Programming & DSA,GATE DA
+DBMS,DBMS & Data Warehousing,GATE DA
+ML,Machine Learning,GATE DA
+AI,Artificial Intelligence,GATE DA
+ENG-G,English Grammar,English
+ENG-V,English Vocabulary,English
+ENG-R,Reading Comprehension,English
+ENG-W,English Writing,English

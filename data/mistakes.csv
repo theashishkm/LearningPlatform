@@ -1,0 +1,27 @@
+﻿id,date,subject,topic,questionId,type,why,approach,status
+HM-001,,ENG-G,,HIST-ENG-L08-Q9,,Original question unavailable,,Open
+HM-002,,ENG-G,,HIST-ENG-L08-Q10,,Original question unavailable,,Open
+HM-003,,ENG-G,,HIST-ENG-L10-Q12,,Original question unavailable,Correct answer: A,Open
+HM-004,,ENG-G,,HIST-ENG-L10-Q13,,Original question unavailable,Correct answer: B,Open
+HM-005,,ENG-G,,HIST-ENG-L12-Q7,,Original question unavailable,Correct answer: C,Open
+HM-006,,ENG-G,,HIST-ENG-L13-Q5,,Original question unavailable,Correct answer: B,Open
+HM-007,,ENG-G,,HIST-ENG-L13-Q7,,Original question unavailable,Correct answer: C,Open
+HM-008,,ENG-G,,HIST-ENG-L14-Q7,,Original question unavailable,Correct answer: A,Open
+HM-009,,ENG-G,,HIST-ENG-L14-Q8,,Original question unavailable,Correct answer: C,Open
+HM-010,,ENG-G,,HIST-ENG-L15-Q1,,Original question unavailable,Correct answer: C,Open
+HM-011,,ENG-G,,HIST-ENG-L15-Q4,,Original question unavailable,Correct answer: B,Open
+HM-012,,ENG-G,,HIST-ENG-L15-Q8,,Original question unavailable,Correct answer: B,Open
+HM-013,,ENG-G,,HIST-ENG-L16-Q4,,Original question unavailable,Correct answer: D,Open
+HM-014,,ENG-G,,HIST-ENG-L16-Q7,,Original question unavailable,Correct answer: A,Open
+HM-015,,APT,,HIST-APT-DIAG1-Q9,,Misread “5 metres greater” as 5×; interpretation error,,Open
+HM-016,,APT,,HIST-APT-DIAG2-Q1,,Subject–verb agreement,,Open
+HM-017,,APT,,HIST-APT-DIAG2-Q8,,MSQ: must versus possible logic,,Open
+HM-018,,APT,,HIST-APT-DIAG2-Q10,,Counting: omitted three-women case,,Open
+HM-019,2026-10-12,PROB,,HIST-PROB-QUIZ-1012-Q2,,Set operations/union identities,,Open
+HM-020,2026-10-12,PROB,,HIST-PROB-QUIZ-1012-Q8,,Confused joint and conditional probability,,Open
+HM-021,2026-11-01,ENG-G,,HIST-ENG-SUNDAY01-Q12,,Omitted adverb “correctly”; partial credit,,Open
+HM-022,,ENG-G,,HIST-ENG-L17-Q6,,Question text unavailable; reason not classified,Your answer: B; correct: C,Open
+HM-023,,ENG-G,,HIST-ENG-L17-Q11,,Question text unavailable; reason not classified,Your answer: A; correct: B,Open
+HM-024,,ENG-G,,HIST-ENG-L17-Q13,,Question text unavailable; reason not classified,Your answer: B; correct: A,Open
+HM-025,,ENG-G,,HIST-ENG-L18-Q7,,Question text unavailable; reason not classified,Your answer: D; correct: C,Open
+HM-026,,ENG-G,,HIST-ENG-SAT-MINI-Q2,,Question text unavailable; reason not classified,Your answer: B; correct: A,Open

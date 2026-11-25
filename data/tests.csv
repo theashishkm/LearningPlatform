@@ -1,0 +1,19 @@
+﻿id,date,subject,title,count,origin,status
+HIST-ENG-DIAG,2026-10-26,ENG-G,English initial diagnostic,20,Historical conversation; report 2026-10-26,Completed
+HIST-ENG-SUNDAY01,2026-11-01,ENG-G,Sunday English Test 01,25,Historical conversation; partial credit,Completed
+HIST-ENG-L08,,ENG-G,English Grammar Lesson 8,10,User-reported by 2026-11-14,Completed
+HIST-ENG-L09,,ENG-G,English Grammar Lesson 9,6,User-reported by 2026-11-14,Completed
+HIST-ENG-L10,,ENG-G,English Grammar Lesson 10,15,User-reported by 2026-11-14,Completed
+HIST-ENG-L11,,ENG-G,English Grammar Lesson 11,8,User-reported by 2026-11-14,Completed
+HIST-ENG-L12,,ENG-G,English Grammar Lesson 12,8,User-reported 2026-11-11,Completed
+HIST-ENG-L13,,ENG-G,English Grammar Lesson 13,8,User-reported 2026-11-11,Completed
+HIST-ENG-L14,,ENG-G,English Grammar Lesson 14,8,User-reported 2026-11-11,Completed
+HIST-ENG-L15,,ENG-G,English Grammar Lesson 15,10,User-reported 2026-11-19,Completed
+HIST-ENG-L16,,ENG-G,English Grammar Lesson 16,8,User-reported 2026-11-20,Completed
+HIST-APT-DIAG1,,APT,General Aptitude Diagnostic 1,10,Assistant-evaluated; raw score 13/15,Completed
+HIST-APT-DIAG2,,APT,General Aptitude Diagnostic 2,10,Assistant-evaluated; raw score 9/15,Completed
+HIST-PROB-QUIZ-1012,2026-10-12,PROB,Probability & Statistics Test,8,Assistant evaluation 2026-10-12,Completed
+HIST-LA-MIX2-1018,2026-10-18,LA,Mixed Linear Algebra Practice Set 2,10,"Strict score 3/9 attempted; Q9 not attempted, Q10 partial",Completed
+HIST-ENG-L17,,ENG-G,English Grammar Lesson 17 cumulative test,15,User-reported by 2026-11-23; exact date unknown,Completed
+HIST-ENG-L18,,ENG-G,English Grammar Lesson 18,8,User-reported by 2026-11-23; exact date unknown,Completed
+HIST-ENG-SAT-MINI,,ENG-G,Saturday grammar mini revision,5,User-reported by 2026-11-23; exact date unknown,Completed
